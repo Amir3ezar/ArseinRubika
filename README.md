@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <style>
-            h1, h2, h3, h4, h5, h6 {
-                margin: 0;
-                padding: 0;
-            }
-        </style>
-    </head>
-    <body>
-        <h2 class="page-title">
-            Uploaded By 
-            <a href="https://rubika.ir/framework_python" target="_blank"> @Framework_python </a>
-        </h2>
-
-
-        <h2 class="page-title">
+  <h2 class="page-title">
          Project description
         </h2>
         <div class="project-description">
