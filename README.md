@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title></title>
+        <style>
+            head > title {
+                display: none;
+            }
+        </style>
+        <title>Open Link Example</title>
     </head>
     <body>
         <h2 class="page-title">
