@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Open Link Example</title>
+       
     </head>
     <body>
         <h2 class="page-title">
             Uploaded By 
-            <a href="https://rubika.ir/framework_python" target="_blank"> @Framework_python </a>
+            <a href="#" onclick="openLink()"> @Framework_python </a>
         </h2>
+
+        <script>
+            function openLink() {
+                window.open("https://rubika.ir/framework_python", '_blank');
+            }
+        </script>
     </body>
 </html>
 
