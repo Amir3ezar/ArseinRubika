@@ -16,11 +16,11 @@
 
 
         <h2 class="page-title">
-            Project description
+         Project description
         </h2>
         <div class="project-description">
          <h2>
-                ArseinRubika
+          ArseinRubika
          </h2>
          <blockquote>
           <p>
