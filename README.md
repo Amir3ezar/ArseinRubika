@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Open Link Example</title>
+     
     </head>
     <body>
         <h2 class="page-title">
