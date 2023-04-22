@@ -1,6 +1,22 @@
-  <h2 class="page-title">
-         Uploaded by @Framework_python
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Open Link Example</title>
+    </head>
+    <body>
+        <h2 class="page-title">
+            Uploaded by 
+            <a href="#" onclick="openLink('@Framework_python')"> @Framework_python </a>
         </h2>
+
+        <script>
+            function openLink(username) {
+                var link = "https://example.com/" + username;
+                window.open(link, '_blank');
+            }
+        </script>
+    </body>
+</html>
         <div class="project-description">
          <h2>
           ArseinRubika
