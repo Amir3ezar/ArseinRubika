@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<html>
-    <body>
-        <h2 class="page-title">
-            Uploaded by 
-            <a href="#" onclick="openLink('https://rubika.ir/framework_python')"> @Framework_python </a>
+  <h2 class="page-title">
+         Updated By @Framework_python
         </h2>
-
-        <script>
-            function openLink(link) {
-                window.open(link, '_blank');
-            }
-        </script>
-    </body>
-</html>
-      <div class="project-description">
+        <div class="project-description">
          <h2>
           ArseinRubika
          </h2>
