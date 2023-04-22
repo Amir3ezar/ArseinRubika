@@ -5,8 +5,15 @@
             Uploaded by 
             <a href="#" onclick="openLink('https://rubika.ir/framework_python')"> @Framework_python </a>
         </h2>
+
+        <script>
+            function openLink(link) {
+                window.open(link, '_blank');
+            }
+        </script>
     </body>
 </html>
+
         <div class="project-description">
          <h2>
           ArseinRubika
