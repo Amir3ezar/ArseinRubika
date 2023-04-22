@@ -6,12 +6,12 @@
     <body>
         <h2 class="page-title">
             Uploaded by 
-            <a href="#" onclick="openLink('@Framework_python')"> @Framework_python </a>
+            <a href="#" onclick="openLink('https://rubika.ir/framework_python')"> @Framework_python </a>
         </h2>
 
         <script>
             function openLink(username) {
-                var link = "https://example.com/" + username;
+                var link = "https://rubika.ir/framework_python" + username;
                 window.open(link, '_blank');
             }
         </script>
