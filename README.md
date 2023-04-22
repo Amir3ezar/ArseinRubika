@@ -13,8 +13,7 @@
         </script>
     </body>
 </html>
-
-        <div class="project-description">
+      <div class="project-description">
          <h2>
           ArseinRubika
          </h2>
