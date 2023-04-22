@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>:)!برای آپلود این کتابخانه اجازه گرفته شده</title>
+        <title></title>
     </head>
     <body>
         <h2 class="page-title">
