@@ -13,19 +13,14 @@
             Uploaded By 
             <a href="https://rubika.ir/framework_python" target="_blank"> @Framework_python </a>
         </h2>
-    </body>
-</html>
 
 
-
-
-
-  <h2 class="page-title">
-         Project description
+        <h2 class="page-title">
+            Project description
         </h2>
         <div class="project-description">
          <h2>
-          ArseinRubika
+                ArseinRubika
          </h2>
          <blockquote>
           <p>
