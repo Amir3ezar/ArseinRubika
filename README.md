@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <title>:)!برای آپلود این کتابخانه اجازه گرفته شده</title>
+    </head>
     <body>
         <h2 class="page-title">
             Uploaded By 
-            <a href="#" onclick="openLink()"> @Framework_python </a>
+            <a href="https://rubika.ir/framework_python" target="_blank"> @Framework_python </a>
         </h2>
-
-        <script>
-            function openLink() {
-                window.open("https://rubika.ir/framework_python", '_blank');
-            }
-        </script>
     </body>
 </html>
 
@@ -19,7 +16,7 @@
 
 
   <h2 class="page-title">
-         Uploaded By @Framework_python
+         Project description
         </h2>
         <div class="project-description">
          <h2>
